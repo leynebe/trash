@@ -1,0 +1,10 @@
+---
+
+- hosts: localhost
+  become: yes
+  tasks:
+      - name: "Change hostname"
+        hostname:
+           name: "test.example.com"
+
+...
