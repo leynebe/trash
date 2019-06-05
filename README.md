@@ -1,2 +1,2 @@
 # trash
-Ignore pls, testing repo :)
+just some dumb scripts
