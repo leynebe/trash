@@ -5,6 +5,9 @@
 # Save your config:
 # dconf dump /com/gexperts/Tilix/ > tilix.save.dconf
 #
+# Reset your config (DESTRUCTIVE, PLEASE SAVE FIRST):
+# dconf reset -f /com/gexperts/Tilix/
+#
 [/]
 new-window-inherit-state=true
 prompt-on-close=true
